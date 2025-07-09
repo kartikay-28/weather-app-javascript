@@ -4,6 +4,8 @@ Sure! Here's a sample README file for your Weather App using JavaScript:
 
 # 🌤️ Weather App
 
+Weather app live -- https://1-weather-app-javascript.netlify.app/
+
 A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScript**. This app allows users to get real-time weather information for any city in the world.
 
 ## 🚀 Features
